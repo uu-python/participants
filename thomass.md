@@ -1,1 +1,1 @@
-May the odds be ever in our favor for learning python
+May the odds be forever in our favor learning python
